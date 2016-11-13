@@ -1,5 +1,3 @@
 .idea
-
-example
-/build/resources/main
-/gradle/wrapper
+/build
+/gradle
